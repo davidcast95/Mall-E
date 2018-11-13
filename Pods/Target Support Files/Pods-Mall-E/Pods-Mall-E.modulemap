@@ -1,0 +1,6 @@
+framework module Pods_Mall_E {
+  umbrella header "Pods-Mall-E-umbrella.h"
+
+  export *
+  module * { export * }
+}

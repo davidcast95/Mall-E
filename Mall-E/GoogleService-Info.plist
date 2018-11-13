@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>287689777190-0mfn8k1dldpo7gkn6rb0q1e4g221v2f0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.287689777190-0mfn8k1dldpo7gkn6rb0q1e4g221v2f0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxOA5OM2784dy-t29KxG7mPw27J_bddMk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>287689777190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.davidcast.Mall-E</string>
+	<key>PROJECT_ID</key>
+	<string>mall-e-8e18a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mall-e-8e18a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:287689777190:ios:ee07af1d0694c981</string>
+	<key>DATABASE_URL</key>
+	<string>https://mall-e-8e18a.firebaseio.com</string>
+</dict>
+</plist>
